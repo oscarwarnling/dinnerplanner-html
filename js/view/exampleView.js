@@ -7,7 +7,7 @@
  * - populating the view with the data
  * - updating the view when the data changes
  * 
- * You should create a view Object like this for every view in your UI.
+ * @You should create a view Object like this for every view in your UI. - 55
  * 
  * @param {jQuery object} container - references the HTML parent element that contains the view.
  * @param {Object} model - the reference to the Dinner Model
